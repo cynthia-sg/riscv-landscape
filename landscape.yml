@@ -15,7 +15,7 @@ landscape:
     name: RISC-V Members
     subcategories:
       - subcategory:
-        name: "Premier Board"
+        name: Premier Board
         items:
           - item:
             name: Akeana (member)
@@ -36,16 +36,16 @@ landscape:
             name: Andes Technology Corporation (member)
             homepage_url: https://andestech.com/
             logo: andes_technology_corporation.svg
-            description: "As a Founding Premier member of RISC-V International with a long heritage in providing leading, commercial CPU IP, Andes Technology (TWSE: 6533; SIN: US03420C2089; ISIN: US03420C1099) is the driving force in taking RISC-V mainstream.  Andes RISC-V Processor IP portfolio ranges from area- and power-efficient 32-bit CPUs to high-performance, 64-bit Out-of-Order multiprocessor coherent clusters.  With advanced DSP, vector, and Andes Automated Custom Extensions (ACE) capabilities, along with robust software support, Andes empowers customers across AI, automotive, communications, consumer, data center, and mobile markets to harness full potential of RISC-V.  Over 16 billion Andes-based SoCs are powering innovations globally. For more information, visit https://www.andestech.com. Follow Andes on LinkedIn, Twitter and YouTube."
+            description: 'As a Founding Premier member of RISC-V International with a long heritage in providing leading, commercial CPU IP, Andes Technology (TWSE: 6533; SIN: US03420C2089; ISIN: US03420C1099) is the driving force in taking RISC-V mainstream.  Andes RISC-V Processor IP portfolio ranges from area- and power-efficient 32-bit CPUs to high-performance, 64-bit Out-of-Order multiprocessor coherent clusters.  With advanced DSP, vector, and Andes Automated Custom Extensions (ACE) capabilities, along with robust software support, Andes empowers customers across AI, automotive, communications, consumer, data center, and mobile markets to harness full potential of RISC-V.  Over 16 billion Andes-based SoCs are powering innovations globally. For more information, visit https://www.andestech.com. Follow Andes on LinkedIn, Twitter and YouTube'
             crunchbase: https://www.crunchbase.com/organization/andes-technology
             twitter: https://twitter.com/Andes_Tech
             extra:
               linkedin_url: https://www.linkedin.com/company/doble-engineering
           - item:
             name: Beijing ESWIN Computing Technology Co., Ltd. (member)
-            homepage_url: https://eswin.com/
+            homepage_url: https://eswincomputing.com/
             logo: beijing_eswin_computing_technology_co_ltd.svg
-            description: Beijing Eswin Computing Technology, a Chinese startup that supplies semiconductor designs and solutions, has raised $283 million in a new financing round at a time when the world’s most populous nation is looking to cut its reliance on the U.S. and U.K. for chipsets.
+            description: ESWIN Computing is a provider of intelligent solutions in the AI era. Focusing on smart device and embodied intelligence as our two core application scenarios, we are adopting next-generation RISC-V computing architecture, innovating domain-specific algorithms and IP modules, and constructing efficient and open software-hardware platforms to deliver highly competitive system-level solutions for customers worldwide.
             twitter: https://twitter.com/EswinL
             organization:
               name: Beijing ESWIN Computing Technology Co., Ltd.
@@ -56,6 +56,7 @@ landscape:
             name: Beijing Institute of Open  Source Chip (member)
             homepage_url: https://bosc.ac.cn/
             logo: beijing_institute_of_open_source_chip.svg
+            description: .
             organization:
               name: Beijing Institute of Open  Source Chip
           - item:
@@ -204,7 +205,7 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ventana-micro-systems
       - subcategory:
-        name: "Premier TSC"
+        name: Premier TSC
         items:
           - item:
             name: Institute of Computing Technology (member)
@@ -239,7 +240,7 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tencentglobal
       - subcategory:
-        name: "Strategic"
+        name: Strategic
         items:
           - item:
             name: 10xEngineers (member)
@@ -520,7 +521,7 @@ landscape:
             name: Codasip s.r.o. (member)
             homepage_url: https://codasip.com/
             logo: codasip_s_r_o.svg
-            description: Codasip Ltd.
+            description: Codasip is a European RISC-V provider that enables Custom Compute through customizable processor IP and design automation tools, empowering developers to create optimized, application-specific processors.
             crunchbase: https://www.crunchbase.com/organization/codasip
             twitter: https://twitter.com/Codasip
             extra:
@@ -529,7 +530,7 @@ landscape:
             name: Codethink (member)
             homepage_url: https://codethink.co.uk/
             logo: codethink.svg
-            description: "Systems Software Engineering Experts. #opensource.    Independent, Ethical, Effective.     Leading globally in #Enterprise, #Devices and #Automotive."
+            description: 'Systems Software Engineering Experts. #opensource.    Independent, Ethical, Effective.     Leading globally in #Enterprise, #Devices and #Automotive.'
             crunchbase: https://www.crunchbase.com/organization/codethink
             twitter: https://twitter.com/codethink
             extra:
@@ -556,9 +557,11 @@ landscape:
             name: Cycuity, Inc. (member)
             homepage_url: https://cycuity.com/
             logo: cycuity_inc.svg
-            description: Headquartered in San Diego, CA and founded in 2013, Tortuga Logic specializes in hardware security with technology that identifies security vulnerabilities in semiconductor designs.
-            crunchbase: https://www.crunchbase.com/organization/tortuga-logic-inc
+            description: Cycuity, Inc. is a pioneer in hardware security delivering security assurance for semiconductor devices and embedded systems. Cycuity’s innovative Radix software products and services specify, integrate and verify security across the hardware development lifecycle to ensure robust protection for the chips powering today’s sophisticated electronic systems. Radix uncovers security weaknesses across all levels, from block and subsystem to full system-on-chip (SoC) and firmware, enabling our customers to identify and resolve risks prior to manufacturing. Serving both commercial and defense industries, Cycuity provides the broadest security assurance across the design supply chain.
             twitter: https://twitter.com/cycuity
+            organization:
+              name: Cycuity, Inc.
+              linkedin: https://www.linkedin.com/company/cycuity
             extra:
               linkedin_url: https://www.linkedin.com/company/cycuity
           - item:
@@ -627,7 +630,7 @@ landscape:
             name: Embecosm Ltd. (member)
             homepage_url: https://embecosm.com/
             logo: embecosm_ltd.svg
-            description: "Services developing embedded software tools and processor models: GCC, LLVM, QEMU, Verilator, AI tooling experts."
+            description: 'Services developing embedded software tools and processor models: GCC, LLVM, QEMU, Verilator, AI tooling experts.'
             twitter: https://twitter.com/Embecosm
             organization:
               name: Embecosm Ltd.
@@ -851,6 +854,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/inspire-semiconductor-inc
           - item:
+            name: INTEGRITY Security Services (member)
+            homepage_url: https://ghsiss.com/
+            logo: integrity_security_services.svg
+            description: INTEGRITY Security Services (ISS) is a top provider of end-to-end embedded security solutions for a secure Internet of Things, offering expert services in key protection, certificate management, and secure OTA delivery to prevent cyber attacks and ensu...
+            organization:
+              name: INTEGRITY Security Services
+              linkedin: https://www.linkedin.com/company/integrity-security-services-llc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/integrity-security-services-llc
+          - item:
             name: International Business Machines Corporation (member)
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
@@ -948,7 +961,7 @@ landscape:
             name: Lauterbach GmbH (member)
             homepage_url: https://lauterbach.com/
             logo: lauterbach_gmbh.svg
-            description: Lauterbach is the world's largest producer of complete, modular and upgradeable microprocessor development tools worldwide with experience in making world class debuggers and real-time trace since 1979.
+            description: Lauterbach is the world's largest producer of complete, modular and upgradeable microprocessor development tools worldwide with experience in making world class debuggers and real-time trace since 1979
             crunchbase: https://www.crunchbase.com/organization/lauterbach
             extra:
               linkedin_url: https://www.linkedin.com/company/lauterbach-gmbh
@@ -966,7 +979,7 @@ landscape:
             name: lowRISC C.I.C. (member)
             homepage_url: https://lowrisc.org/
             logo: lowrisc_c_i_c.svg
-            description: "Open to the core: enabling open source silicon through collaborative engineering"
+            description: 'Open to the core: enabling open source silicon through collaborative engineering'
             twitter: https://twitter.com/lowRISC
             organization:
               name: lowRISC C.I.C.
@@ -986,7 +999,7 @@ landscape:
             name: Maven Silicon Softech Private Limited (member)
             homepage_url: https://maven-silicon.com/
             logo: maven_silicon_softech_private_limited.svg
-            description: Setting Standards in VLSI Training
+            description: Setting Standards in VLSI Training.
             twitter: https://twitter.com/MavenSilicon
             organization:
               name: Maven Silicon Softech Private Limited
@@ -997,7 +1010,7 @@ landscape:
             name: MediaTek Inc (member)
             homepage_url: https://mediatek.tw/
             logo: mediatek_inc.svg
-            description: "We make semiconductor technology for #Smartphone, #IoT, #Network as well as TV, Tablet, Blu-ray & many other devices. Join us for a touch of #EverydayGenius !"
+            description: 'We make semiconductor technology for #Smartphone, #IoT, #Network as well as TV, Tablet, Blu-ray & many other devices. Join us for a touch of #EverydayGenius !'
             crunchbase: https://www.crunchbase.com/organization/mediatek
             twitter: https://twitter.com/MediaTek
             extra:
@@ -1275,9 +1288,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/qamcom-research-technology-central-europe
           - item:
-            name: Rambus (member)
+            name: Rambus Inc. (member)
             homepage_url: https://rambus.com/
-            logo: rambus.svg
+            logo: rambus_inc.svg
             description: Rambus is a provider of industry-leading chips and silicon IP making data faster and safer. With 35 years of advanced semiconductor experience, we are a pioneer in high-performance memory solutions that solve the bottleneck between memory and processing for data-intensive systems. Whether in the cloud, at the edge or in your hand, real-time and immersive applications depend on data throughput and integrity. Rambus products and innovations deliver the increased bandwidth, capacity and security required to meet the world’s data needs and drive ever-greater end-user experiences. For more information, visit rambus.com.
             crunchbase: https://www.crunchbase.com/organization/rambus
             twitter: https://twitter.com/rambusinc
@@ -1540,11 +1553,19 @@ landscape:
             name: SoundAI Technology Co., Ltd. (member)
             homepage_url: https://soundai.com/
             logo: soundai_technology_co_ltd.svg
-            description: Welcome to the official SoundAI Twitter account. SoundAI is a leading platform provider that combines acoustic and AI.
+            description: |-
+              SoundAI specializes in Acoustic AI, pioneering a physics-informed acoustic world model. This model is powered by our three core algorithms—Acoustic Perception, Acoustic Expression, and Acoustic Detection—designed to master the complexities of perception, understanding, and generation in far-field acoustic environments. Our technology extends beyond sound to enable deep understanding and intelligent decision-making regarding environments, emotions, events, and devices. We deliver value through our unique "AI Algorithm + AI Hardware + AI Subscription" service model, offering open SDKs and APIs, a full suite of hardware from acoustic arrays and AI chips to smart terminals, all backed by robust multi-modal cloud services. Our competitive edge is built on a foundation of "Data-Algorithm-Standard," supported by over 1 PB of proprietary data, 2,000+ global patents, and 150+ industry standards, fueling the widespread adoption of Acoustic AI in consumer electronics, healthcare, and beyond.
+
+              Founded in 2016 by Professor Chen Xiaoliang, SoundAI has roots in the prestigious Institute of Acoustics at the Chinese Academy of Sciences and a team of talent. As a national-level specialized and innovative enterprise, we are entrusted with leading national science and engineering challenges and spearheading major AI projects in Beijing. Our achievements are highlighted by our inclusion in the "Sci-Tech Innovation China" index and other industry lists, and we foster innovation through our Beijing Enterprise Technology Center and six interdisciplinary joint labs. With core algorithms and models certified against national security standards, we have served over 200 million users and are building a global Acoustic AI ecosystem with partners like Infineon, RISC-V, Bosch, NVIDIA, and Google. Our vision extends to the future, as we push the boundaries of Acoustic AI into next-generation fields, including unmanned systems, autonomous driving, high-end acoustic equipment, and acousto-coded brain-computer interfaces. Our mission is "Making Things Smarter," and our vision is "Smarter AI, Better Life."
+
+
+              Official Website: www.soundai.com
+              Business Development: bd@soundai.com 
+              Media Relations: pr@soundai.com 
+              Careers/HR: hr@soundai.com 
+              Contact Number: 400-018-9666
+            crunchbase: https://www.crunchbase.com/organization/soundai
             twitter: https://twitter.com/SoundAI_Ltd
-            organization:
-              name: SoundAI Technology Co., Ltd.
-              linkedin: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E5%A3%B0%E6%99%BA%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
             extra:
               linkedin_url: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E5%A3%B0%E6%99%BA%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
           - item:
@@ -1719,6 +1740,17 @@ landscape:
             organization:
               name: UltraRISC Technology Shanghai Co., Ltd.
           - item:
+            name: Unisoc (Shanghai) Technologies Co., Ltd. (member)
+            homepage_url: https://unisoc.com/
+            logo: unisoc_shanghai_technologies_co_ltd.svg
+            description: Unisoc, formerly Spreadtrum Communications, Inc., Unisoc has research centres in Shanghai, Beijing, Tianjin, Suzhou, Hangzhou, Chengdu, Xiamen, United States, Finland and India, technical support centre in Shenzhen, and international field support offi...
+            twitter: https://twitter.com/UNISOCTech
+            organization:
+              name: Unisoc (Shanghai) Technologies Co., Ltd.
+              linkedin: https://www.linkedin.com/company/unisoctechnologies
+            extra:
+              linkedin_url: https://www.linkedin.com/company/unisoctechnologies
+          - item:
             name: UNO Laboratories, Ltd. (member)
             homepage_url: https://unolabo.co.jp/
             logo: uno_laboratories_ltd.svg
@@ -1746,18 +1778,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/verisilicon
           - item:
-            name: Viettel Semiconductor Center (member)
+            name: Viettel (member)
             homepage_url: https://viettel.com.vn/
-            logo: viettel_semiconductor_center.svg
-            description: |-
-              Viettel Group is a leading telecom operator pioneering digital societies with over 110 million subscribers and a global presence in 13 countries.
-
-              --- Merged Data:
-
-              Viettel Group is a leading telecom operator pioneering digital societies with over 110 million subscribers and a global presence in 13 countries.
-            organization:
-              name: Viettel Semiconductor Center
-              linkedin: https://www.linkedin.com/company/viettel-group
+            logo: viettel.svg
+            description: Viettel Group is a leading telecom operator pioneering digital societies with over 110 million subscribers and a global presence in 13 countries.
+            crunchbase: https://www.crunchbase.com/organization/viettel
             extra:
               linkedin_url: https://www.linkedin.com/company/viettel-group
           - item:
@@ -1771,7 +1796,7 @@ landscape:
             name: VRULL (member)
             homepage_url: https://vrull.eu/
             logo: vrull.svg
-            description: "VRULL: Compilers, simulators, and software ecosystems to accelerate silicon innovation."
+            description: 'VRULL: Compilers, simulators, and software ecosystems to accelerate silicon innovation.'
             twitter: https://twitter.com/VRULLEU
             organization:
               name: VRULL
@@ -1823,7 +1848,7 @@ landscape:
             organization:
               name: Zhihe Computing
       - subcategory:
-        name: "Strategic Start-Up"
+        name: Strategic Start-Up
         items:
           - item:
             name: Ahead Computing (member)
@@ -1835,6 +1860,13 @@ landscape:
               linkedin: https://www.linkedin.com/company/wix-com
             extra:
               linkedin_url: https://www.linkedin.com/company/wix-com
+          - item:
+            name: Beijing VSAI Technology Co., Ltd. (member)
+            homepage_url: https://vsit.ai/
+            logo: beijing_vsai_technology_co_ltd.svg
+            description: .
+            organization:
+              name: Beijing VSAI Technology Co., Ltd.
           - item:
             name: Chengdu Masscore Microelectronics Technology Co., Ltd. (member)
             homepage_url: https://masscore.cn/
@@ -1908,11 +1940,21 @@ landscape:
               name: Peanut Microsystems
           - item:
             name: Quintauris GmbH (member)
-            homepage_url: https://quintauris.eu/
+            homepage_url: https://quintauris.com/
             logo: quintauris_gmbh.svg
-            description: Quintauris is a company dedicated to advancing the global adoption of RISC V through innovative hardware development. Specializing in RISC V based chip designs for automotive, IoT, mobile, and more, Quintauris serves as a single source for compatible p...
+            description: Quintauris focuses on developing compatible RISC V-based products and reference architectures, collaborating with industry leaders to create a unique ecosystem that facilitates the widespread adoption of RISC V solutions across various sectors.
             organization:
               name: Quintauris GmbH
+          - item:
+            name: RED Semiconductor Ltd (member)
+            homepage_url: https://redsemiconductor.com/
+            logo: red_semiconductor_ltd.svg
+            description: Red Semiconductor - mission is to develop & deliver a new class of microprocessor chip set optimised for vector instructions.
+            organization:
+              name: RED Semiconductor Ltd
+              linkedin: https://www.linkedin.com/company/red-semiconductor
+            extra:
+              linkedin_url: https://www.linkedin.com/company/red-semiconductor
           - item:
             name: RISCstar Solutions (member)
             homepage_url: https://riscstar.com/
@@ -1955,18 +1997,8 @@ landscape:
             logo: wuhan_xinpian.svg
             organization:
               name: Wuhan Xinpian
-          - item:
-            name: Xcelerium (member)
-            homepage_url: https://xcelerium.com/
-            logo: xcelerium.svg
-            description: Xcelerium is a fabless semiconductor company that develops high performance domain specific processors for converged workloads at the edge of the network involving wireless communications, advanced radar, image signal processing, computer vision and ML...
-            organization:
-              name: Xcelerium
-              linkedin: https://www.linkedin.com/company/xcelerium/
-            extra:
-              linkedin_url: https://www.linkedin.com/company/xcelerium/
       - subcategory:
-        name: "Community"
+        name: Community
         items:
           - item:
             name: Aalto University (member)
@@ -2243,7 +2275,7 @@ landscape:
             name: Coleg Sir Gar (member)
             homepage_url: https://colegsirgar.ac.uk/
             logo: coleg_sir_gar.svg
-            description: "Coleg Sir Gar is a company of the University of Wales: Trinity Saint David Group and a regional Dual Sector University."
+            description: 'Coleg Sir Gar is a company of the University of Wales: Trinity Saint David Group and a regional Dual Sector University.'
             organization:
               name: Coleg Sir Gar
           - item:
@@ -2463,7 +2495,7 @@ landscape:
             name: Forschungszentrum Juelich GmbH (member)
             homepage_url: https://fz-juelich.de/
             logo: forschungszentrum_juelich_gmbh.svg
-            description: "Ansprechpartner Facebook:     Marcel Bülow (mb)  Forschungszentrum Jülich  Unternehmenskommunikation  www.fz-juelich.de/social-media"
+            description: 'Ansprechpartner Facebook:     Marcel Bülow (mb)  Forschungszentrum Jülich  Unternehmenskommunikation  www.fz-juelich.de/social-media'
             crunchbase: https://www.crunchbase.com/organization/forschungszentrum-julich
             twitter: https://twitter.com/fz_juelich
             extra:
@@ -2507,7 +2539,7 @@ landscape:
             name: Fundacion Instituto Ricardo Valle de Innovacion (INNOVA IRV) (member)
             homepage_url: https://innovairv.com/
             logo: fundacion_instituto_ricardo_valle_de_innovacion_innova_irv.svg
-            description: "Fundación Instituto Ricardo Valle de Innovación  #weareinnovating"
+            description: 'Fundación Instituto Ricardo Valle de Innovación  #weareinnovating'
             twitter: https://twitter.com/innovairv
             organization:
               name: Fundacion Instituto Ricardo Valle de Innovacion (INNOVA IRV)
@@ -2556,13 +2588,13 @@ landscape:
             organization:
               name: GDCNI
           - item:
-            name: Georgia Tech Research Corporation (member)
+            name: Georgia Tech Applied Research Corporation (member)
             homepage_url: https://gtrc.gatech.edu/
-            logo: georgia_tech_research_corporation.svg
+            logo: georgia_tech_applied_research_corporation.svg
             description: The Georgia Institute of Technology, commonly referred to as Georgia Tech or, in the state of Georgia, as Tech, is a public research university and institute of technology in Atlanta, Georgia.
             twitter: https://twitter.com/GeorgiaTech
             organization:
-              name: Georgia Tech Research Corporation
+              name: Georgia Tech Applied Research Corporation
               linkedin: https://www.linkedin.com/company/georgia-institute-of-technology
             extra:
               linkedin_url: https://www.linkedin.com/company/georgia-institute-of-technology
@@ -2689,7 +2721,7 @@ landscape:
             name: IIT Madras (member)
             homepage_url: https://iitm.ac.in/
             logo: iit_madras.svg
-            description: "IITM, IIT Madras, Best Institute in India, Best Higher Education, Top Research Institute, No: 1 Research"
+            description: 'IITM, IIT Madras, Best Institute in India, Best Higher Education, Top Research Institute, No: 1 Research'
             twitter: https://twitter.com/iitmadras
             organization:
               name: IIT Madras
@@ -2957,6 +2989,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/mit
           - item:
+            name: MBZUAI (member)
+            homepage_url: https://mbzuai.ac.ae/
+            logo: mbzuai.svg
+            description: The Mohamed bin Zayed University of Artificial Intelligence is a graduate level, research based academic institution that offers graduate degree programs for local and international students in the field of Artificial Intelligence.
+            organization:
+              name: MBZUAI
+          - item:
             name: MEEP Project (member)
             homepage_url: https://meep-project.eu/
             logo: meep_project.svg
@@ -3042,7 +3081,7 @@ landscape:
             name: National University of Sciences and Technology (NUST) (member)
             homepage_url: https://nust.edu.pk/
             logo: national_university_of_sciences_and_technology_nust.svg
-            description: "Ideally located in the heart of the capital city of Pakistan, NUST is the #1 ranked Engineering & Technology university of Pakistan. National University of Sciences & Technology (NUST) has come a long way as a premier science & technology university of Pakistan, since its inception in March 1991. It has earned the infallible reputation of being a next-generation university with a strong focus on multidisciplinary higher education, research and innovation."
+            description: 'Ideally located in the heart of the capital city of Pakistan, NUST is the #1 ranked Engineering & Technology university of Pakistan. National University of Sciences & Technology (NUST) has come a long way as a premier science & technology university of Pakistan, since its inception in March 1991. It has earned the infallible reputation of being a next-generation university with a strong focus on multidisciplinary higher education, research and innovation.'
             crunchbase: https://www.crunchbase.com/organization/national-university-of-sciences-and-technology-pakistan
             twitter: https://twitter.com/OfficialNUST
             extra:
@@ -3244,7 +3283,7 @@ landscape:
             name: RISC-V Taiwan Alliance (member)
             homepage_url: https://twiota.org/
             logo: risc_v_taiwan_alliance.svg
-            description: RISC-V International is chartered to standardize and promote the open RISC-V instruction set architecture together with its hardware and software ecosystem for use in all computing devices.
+            description: RISC-V International is chartered to standardize and promote the open RISC-V instruction set architecture together with its hardware and software ecosystem for use in all computing devices. 
             crunchbase: https://www.crunchbase.com/organization/risc-v
             twitter: https://twitter.com/risc_v
           - item:
@@ -3528,9 +3567,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/boston-university
           - item:
-            name: Tsinghua University (member)
+            name: Tsinghua Shenzhen International Graduate School (member)
             homepage_url: https://tsinghua.edu.cn/
-            logo: tsinghua_university.svg
+            logo: tsinghua_shenzhen_international_graduate_school.svg
             description: Tsinghua University is a major research university in Beijing, and a member of the C9 League of Chinese universities.
             crunchbase: https://www.crunchbase.com/organization/tsinghua-university
             twitter: https://twitter.com/SEM_Tsinghua
@@ -3608,6 +3647,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/uahes
           - item:
+            name: Universidad del Istmo de Guatemala (member)
+            homepage_url: https://unis.edu.gt/
+            logo: universidad_del_istmo_de_guatemala.svg
+            description: Universidad del Istmo de Guatemala is an educational institution that offers a diverse range of professional programs aimed at developing capable and reliable individuals with a global perspective, committed to serving others and bridging the gap betwe.
+            organization:
+              name: Universidad del Istmo de Guatemala
+          - item:
             name: Universidad de Sevilla (member)
             homepage_url: https://us.es/
             logo: universidad_de_sevilla.svg
@@ -3621,7 +3667,7 @@ landscape:
             name: Universidade do Minho (member)
             homepage_url: https://uminho.pt/
             logo: universidade_do_minho.svg
-            description: "The University of Minho (Universidade do Minho) is a public university in Portugal, divided into the following campuses:"
+            description: 'The University of Minho (Universidade do Minho) is a public university in Portugal, divided into the following campuses:'
             crunchbase: https://www.crunchbase.com/organization/university-of-minho
             twitter: https://twitter.com/UMinho_Oficial
             extra:
@@ -3630,7 +3676,7 @@ landscape:
             name: Universidade Federal de Campina Grande (member)
             homepage_url: https://lad.ufcg.edu.br/
             logo: universidade_federal_de_campina_grande.svg
-            description: "Perfil oficial da Universidade Federal de Campina Grande, gerenciado pela Assessoria de Comunicação. E-mail: aimp@reitoria.ufcg.edu.br Telefone: (83) 2101.1446"
+            description: 'Perfil oficial da Universidade Federal de Campina Grande, gerenciado pela Assessoria de Comunicação. E-mail: aimp@reitoria.ufcg.edu.br Telefone: (83) 2101.1446'
             crunchbase: https://www.crunchbase.com/organization/universidade-federal-de-campina-grande
             twitter: https://twitter.com/UFCG_Oficial
             extra:
@@ -3658,7 +3704,7 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/universidad-galileo
           - item:
-            name: Universidad Politécnica de Madrid (member)
+            name: Universidad Politecnica de Madrid (member)
             homepage_url: https://upm.es/
             logo: universidad_politecnica_de_madrid.svg
             description: |-
@@ -5166,7 +5212,7 @@ landscape:
             logo: antmicro-founding.svg
             crunchbase: https://www.crunchbase.com/organization/antmicro
             extra:
-              hide_license: "true"
+              hide_license: 'true'
           - item:
             name: Ashling Tools-as-a-Service
             description: >-
